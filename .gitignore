@@ -1,0 +1,6 @@
+﻿/.git/*
+/.idea/*
+*/bin/*
+*/obj/*
+secrets.json
+secrets.*.json
